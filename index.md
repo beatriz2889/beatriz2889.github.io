@@ -8,7 +8,7 @@ in the end and that no obstacle is insurmountable.
 
 ### Resume
 
-<form method="get" action="IT-Resume.docx">
+<form method="get" action="Beatriz-Morales-Resume.docx">
    <button type="submit">Download Resume</button>
 </form>
 
