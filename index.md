@@ -1,6 +1,7 @@
 ## Who am I?
 
-I am a passionate Computer Programmer who loves to create new applications and explore new concepts.
+I am a passionate Computer Programmer who loves to create new applications and explore new concepts. I believe that hard work pays off
+in the end and that no obstace is insurmountable.
 
 ### Markdown
 
