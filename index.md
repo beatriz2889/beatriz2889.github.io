@@ -4,9 +4,13 @@
 >the more I have of it" -Thomas Jefferson
 
 I am a passionate Computer Programmer who loves to create new applications and explore new concepts. I believe that hard work pays off
-in the end and that no obstace is insurmountable.
+in the end and that no obstacle is insurmountable.
 
-### Markdown
+### Resume
+
+<form method="get" action="IT-Resume.docx">
+   <button type="submit">Download Resume</button>
+</form>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
