@@ -8,7 +8,7 @@ in the end and that no obstacle is insurmountable.
 
 
 <form method="get" action="Beatriz-Morales-Resume.docx">
-   <button type="submit" color="orange">Download Resume</button>
+   <button type="submit" style="background-color:orange">Download Resume</button>
 </form>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
