@@ -6,10 +6,9 @@
 I am a passionate Computer Programmer who loves to create new applications and explore new concepts. I believe that hard work pays off
 in the end and that no obstacle is insurmountable.
 
-### Resume
 
 <form method="get" action="Beatriz-Morales-Resume.docx">
-   <button type="submit">Download Resume</button>
+   <button type="submit" color="orange">Download Resume</button>
 </form>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
