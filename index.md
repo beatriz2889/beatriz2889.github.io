@@ -1,6 +1,4 @@
-<html>
-link href="assets/css/style.css" rel="stylesheet" type="text/css">
-</html>
+
 ## Who am I?
 
 >"I'm a greater believer in luck, and I find the harder I work
