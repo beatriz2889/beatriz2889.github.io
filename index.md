@@ -9,8 +9,7 @@ in the end and that no obstacle is insurmountable.
 
 <form method="get" action="Beatriz-Morales-Resume.docx">
    <button type="submit" style="background-color:orange">Download Resume</button>
-</form>&nbsp;
-
+</form>
 <form method="get" action="Beatriz-Morales-Coverletter.docx">
    <button type="submit" style="background-color:pink">Download Coverletter</button>
 
