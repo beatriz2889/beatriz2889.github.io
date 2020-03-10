@@ -1,7 +1,5 @@
 <html>
-<head>
-   link href="assets/css/style.css" rel="stylesheet" type="text/css">
-</head>
+link href="assets/css/style.css" rel="stylesheet" type="text/css">
 </html>
 ## Who am I?
 
