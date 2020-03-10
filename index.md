@@ -1,6 +1,8 @@
+<html>
 <head>
    link href="assets/css/style.css" rel="stylesheet" type="text/css">
 </head>
+</html>
 ## Who am I?
 
 >"I'm a greater believer in luck, and I find the harder I work
