@@ -11,6 +11,9 @@ in the end and that no obstacle is insurmountable.
    <button type="submit" style="background-color:orange">Download Resume</button>
 </form>
 
+<form method="get" action="Beatriz-Morales-Coverletter.docx">
+   <button type="submit" style="background-color:pink">Download Coverletter</button>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
