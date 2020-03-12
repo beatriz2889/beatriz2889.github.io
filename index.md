@@ -20,5 +20,6 @@ in the end and that no obstacle is insurmountable.
    <p> In this section I have some projects that I did as part of my George Brown education experience. Please click on the link of the project that you would like to see. The link will take you to the project's repository where you can view the source code and clone the project to run it.</p>
    
    <a href="https://github.com/beatriz2889/angular-project">Gamer Lobby Application using Angular</a>
+   <a href="https://github.com/beatriz2889/gbc-parking-app">Parking Reservation Web Application for George Brown College using Angular MEAN Stack</a>
    
 
