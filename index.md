@@ -1,4 +1,4 @@
-# Beatriz Morales
+# Beatriz Morales <a name="projects">Projects</a>
 ## Who am I?
 
 >"I'm a greater believer in luck, and I find the harder I work
@@ -13,5 +13,9 @@ in the end and that no obstacle is insurmountable.
 </form>
 <form method="get" action="Beatriz-Morales-Coverletter.docx">
    <button type="submit" style="background-color:pink">Download Coverletter</button>
+   
+<div id="projects">
+   <h3>Projects</h3>
+   <p> In this section I have some projects that I did as part of my George Brown education experience. Please click on the link of the project that you would like to see. The link will take you to the project's repository where you can view the source code and clone the project to run it.</p>
    
 
