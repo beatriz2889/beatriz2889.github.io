@@ -1,4 +1,5 @@
-# Beatriz Morales <a name="projects">Projects</a>
+# Beatriz Morales 
+<a id="projects">Projects</a>
 ## Who am I?
 
 >"I'm a greater believer in luck, and I find the harder I work
