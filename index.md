@@ -20,15 +20,15 @@ in the end and that no obstacle is insurmountable.
   <div class="column">
     <div class="content">
       <img src="assets/angular.jfif" style="width:100%">
-      <h3>Angular JS</h3>
+      <h3>Gamer Lobby</h3>
       <p>Using Angular JS along with the MEAN stack I created a gamer lobby that allows users to add a player and join other player's games</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-      <img src="lights.jpg" alt="Lights" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
+      <img src="assets/mongodb.png" style="width:100%">
+      <h3>GBC Parking Reservation Application</h3>
+      <p>Using the MEAN stack I have developed a web parking reservation application for George Brown College as part of my capstone project.</p>
     </div>
   </div>
   <div class="column">
