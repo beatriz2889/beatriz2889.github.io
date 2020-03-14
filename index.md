@@ -19,7 +19,7 @@ in the end and that no obstacle is insurmountable.
   <div class="row">
   <div class="column">
     <div class="content">
-      <img src="angular.jfif" style="width:100%">
+      <img src="assets/angular.jfif" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum..</p>
     </div>
