@@ -15,9 +15,11 @@ in the end and that no obstacle is insurmountable.
 <form method="get" action="Beatriz-Morales-Coverletter.docx">
    <button type="submit" style="background-color:pink">Download Coverletter</button>
    
-<div id="projects">
    <h3>Projects</h3>
-   <p> In this section I have some projects that I did as part of my George Brown education experience. Please click on the link of the project that you would like to see. The link will take you to the project's repository where you can view the source code and clone the project to run it.</p>
+  <div class="container portfolio-work-container">
+   <div class="row">
+      <div data-toggle="model" onclick="$("html").css("overflow","hidden"); href="https://github.com/beatriz2889/angular-project" class="col-md-4 box" style="visibility:visible;"></div>
+   
    
    <a href="https://github.com/beatriz2889/angular-project">Gamer Lobby Application using Angular</a>
    <a href="https://github.com/beatriz2889/gbc-parking-app">Parking Reservation Web Application for George Brown College using Angular MEAN Stack</a>
