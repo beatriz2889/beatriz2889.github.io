@@ -15,7 +15,7 @@ in the end and that no obstacle is insurmountable.
 <form method="get" action="Beatriz-Morales-Coverletter.docx">
    <button type="submit" style="background-color:pink">Download Coverletter</button>
    
-   <h3>Projects</h3>
+   <h3 id="projects">Projects</h3>
   <div class="row">
   <div class="column">
     <div class="content">
