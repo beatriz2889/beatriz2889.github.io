@@ -18,7 +18,7 @@ in the end and that no obstacle is insurmountable.
    <h3>Projects</h3>
   <div class="container portfolio-work-container">
    <div class="row">
-      <div data-toggle="model" onclick="$("html").css("overflow","hidden"); href="https://github.com/beatriz2889/angular-project" class="col-md-4 box" style="visibility:visible;"></div>
+      <div data-toggle="modal" onclick="$("html").css("overflow","hidden"); href="https://github.com/beatriz2889/angular-project" class="col-md-4 box" style="visibility:visible;"></div>
    
    
    <a href="https://github.com/beatriz2889/angular-project">Gamer Lobby Application using Angular</a>
