@@ -16,9 +16,36 @@ in the end and that no obstacle is insurmountable.
    <button type="submit" style="background-color:pink">Download Coverletter</button>
    
    <h3>Projects</h3>
-  <div class="container portfolio-work-container">
-   <div class="row">
-      <div data-toggle="modal" onclick="$("html").css("overflow","hidden"); href="https://github.com/beatriz2889/angular-project" class="col-md-4 box" style="visibility:visible;"></div>
+  <div class="row">
+  <div class="column">
+    <div class="content">
+      <img src="mountains.jpg" alt="Mountains" style="width:100%">
+      <h3>My Work</h3>
+      <p>Lorem ipsum..</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="lights.jpg" alt="Lights" style="width:100%">
+      <h3>My Work</h3>
+      <p>Lorem ipsum..</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="nature.jpg" alt="Nature" style="width:100%">
+      <h3>My Work</h3>
+      <p>Lorem ipsum..</p>
+    </div>
+  </div>
+  <div class="column">
+    <div class="content">
+      <img src="mountains.jpg" alt="Mountains" style="width:100%">
+      <h3>My Work</h3>
+      <p>Lorem ipsum..</p>
+    </div>
+  </div>
+</div>
    
    
    <a href="https://github.com/beatriz2889/angular-project">Gamer Lobby Application using Angular</a>
