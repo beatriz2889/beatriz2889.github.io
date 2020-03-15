@@ -18,7 +18,6 @@ in the end and that no obstacle is insurmountable.
    <div id="projects">
    <h3>Projects</h3>
    </div>
-<div class="wrapper">
   <div class="row">
   <div class="column">
     <div class="content">
@@ -49,12 +48,10 @@ in the end and that no obstacle is insurmountable.
     </div>
   </div>
 </div>
-</div>
                                                      
                                                 
    
    
-   <a href="https://github.com/beatriz2889/angular-project">Gamer Lobby Application using Angular</a>
-   <a href="https://github.com/beatriz2889/gbc-parking-app">Parking Reservation Web Application for George Brown College using Angular MEAN Stack</a>
+
    
 
