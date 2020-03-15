@@ -36,14 +36,14 @@ in the end and that no obstacle is insurmountable.
   <div class="column">
     <div class="content">
       <img src="assets/react.png" style="width:100%">
-      <h3>Socket io Chat Room</h3>
+       <h3><a href="https://github.com/beatriz2889/chat-room">Socket io Chat Room</a></h3>
       <p>Chat room application developed using socket io and MERN stack.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
       <img src="assets/csharp.jfif" style="width:100%">
-      <h3>Airline Booking System</h3>
+       <h3><a href="https://github.com/beatriz2889/Airline-Booking-System">Airline Booking System</a></h3>
       <p>Small airline booking system application using C#</p>
     </div>
   </div>
