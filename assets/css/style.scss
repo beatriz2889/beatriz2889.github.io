@@ -32,8 +32,3 @@ page-header{
   background-color: white;
   padding: 10px;
 }
-.wrapper{
-   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: minmax(600px, auto);
-}
