@@ -48,10 +48,11 @@ in the end and that no obstacle is insurmountable.
     </div>
   </div>
   <div class="column>
-              <div class="content">
-                                  <img src="assets/java.png" style="width:100%">
-                                                                               <h3><a href="https://github.com/beatriz2889/Bank-Application">Simple Bank Application</a></h3>
-</div>
+    <div class="content">
+      <img src="assets/java.png" style="width:100%">
+        <h3><a href="https://github.com/beatriz2889/Bank-Application">Simple Bank Application</a></h3>
+   </div>
+ </div>
                                                      
                                                 
    
