@@ -14,9 +14,11 @@ in the end and that no obstacle is insurmountable.
 </form>
 <form method="get" action="Beatriz-Morales-Coverletter.docx">
    <button type="submit" style="background-color:pink">Download Coverletter</button>
+</form>
    <div id="projects">
    <h3>Projects</h3>
    </div>
+  <div class="wrapper>
   <div class="row">
   <div class="column">
     <div class="content">
@@ -47,6 +49,9 @@ in the end and that no obstacle is insurmountable.
     </div>
   </div>
 </div>
+   </div>
+                                                     
+                                                
    
    
    <a href="https://github.com/beatriz2889/angular-project">Gamer Lobby Application using Angular</a>
