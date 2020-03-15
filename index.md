@@ -29,7 +29,7 @@ in the end and that no obstacle is insurmountable.
   <div class="column">
     <div class="content">
       <img src="assets/mongodb.png" style="width:100%">
-      <h3>GBC Parking Reservation Application</h3>
+      <h3><a href="https://github.com/beatriz2889/gbc-parking-app">GBC Parking Reservation Application</a></h3>
       <p>Using the MEAN stack I have developed a web parking reservation application for George Brown College as part of my capstone project.</p>
     </div>
   </div>
