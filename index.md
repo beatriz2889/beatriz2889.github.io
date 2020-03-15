@@ -47,12 +47,14 @@ in the end and that no obstacle is insurmountable.
       <p>Small airline booking system application using C#</p>
     </div>
   </div>
-  <div class="column>
+  <div class="column">
     <div class="content">
       <img src="assets/java.png" style="width:100%">
-        <h3><a href="https://github.com/beatriz2889/Bank-Application">Simple Bank Application</a></h3>
-   </div>
- </div>
+       <h3><a href="https://github.com/beatriz2889/Bank-Application">Bank Application</a></h3>
+      <p>Simple bank application using Java</p>
+    </div>
+  </div>
+</div>
                                                      
                                                 
    
