@@ -16,7 +16,7 @@ in the end and that no obstacle is insurmountable.
    <button type="submit" style="background-color:pink">Download Coverletter</button>
 </form>
    <div id="projects">
-   <h3>Projects</h3>
+   <h1>Projects</h1>
    </div>
   <div class="row">
   <div class="column">
