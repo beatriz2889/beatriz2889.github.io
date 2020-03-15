@@ -34,16 +34,16 @@ in the end and that no obstacle is insurmountable.
   </div>
   <div class="column">
     <div class="content">
-      <img src="nature.jpg" alt="Nature" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
+      <img src="assets/react.png" style="width:100%">
+      <h3>Socket io Chat Room</h3>
+      <p>Chat room application developed using socket io and MERN stack.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-      <img src="mountains.jpg" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
+      <img src="assets/csharp.jfif" style="width:100%">
+      <h3>Airline Booking System</h3>
+      <p>Small airline booking system application using C#</p>
     </div>
   </div>
 </div>
