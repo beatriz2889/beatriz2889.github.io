@@ -18,7 +18,7 @@ in the end and that no obstacle is insurmountable.
    <div id="projects">
    <h3>Projects</h3>
    </div>
-  <div class="wrapper>
+<div class="wrapper">
   <div class="row">
   <div class="column">
     <div class="content">
@@ -49,7 +49,7 @@ in the end and that no obstacle is insurmountable.
     </div>
   </div>
 </div>
-   </div>
+</div>
                                                      
                                                 
    
