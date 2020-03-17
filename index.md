@@ -61,6 +61,13 @@ in the end and that no obstacle is insurmountable.
    <div class="row">
    <div class="column">
       <div class="content">
+         <img src="assets/vision.jpg" style="width:100%>
+          <h3><a href="https://github.com/beatriz2889/beatriz2889.github.io/blob/master/capstone-docs/T28_Project%20Vision-converted.pdf">Project Vision</a></h3>
+                                                                                                                                         </div>
+                                                                                                                                         </div>
+                                                                                                                                         
+                                             
+                                             
          
                                                      
                                                 
