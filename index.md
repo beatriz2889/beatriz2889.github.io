@@ -77,6 +77,35 @@ in the end and that no obstacle is insurmountable.
       <h3><a href="https://github.com/beatriz2889/beatriz2889.github.io/blob/master/capstone-docs/T28_Project%20Plan%26Charter-converted.pdf">Project Plan</a></h3>
     </div>
   </div>
+  <div class="row">
+  <div class="column">
+    <div class="content">
+      <img src="assets/analysis.jpg" style="width:100%">
+       <h3> <a href="https://github.com/beatriz2889/beatriz2889.github.io/blob/master/capstone-docs/T28_Requirements%20Analysis%20and%20Design-converted.pdf">Requirements Analysis & Design</a></h3>
+    </div>
+  </div>
+   <div class="row">
+  <div class="column">
+    <div class="content">
+      <img src="assets/wireframes.jpg" style="width:100%">
+       <h3> <a href="https://github.com/beatriz2889/beatriz2889.github.io/blob/master/capstone-docs/F19_T28_MockUp.pdf">Wireframes</a></h3>
+    </div>
+  </div>
+  <div class="row">
+  <div class="column">
+    <div class="content">
+      <img src="assets/statusreports.jpg" style="width:100%">
+       <h3> <a href="https://github.com/beatriz2889/beatriz2889.github.io/tree/master/capstone-docs/status-reports">Status Reports</a></h3>
+    </div>
+  </div>
+  <div class="row">
+  <div class="column">
+    <div class="content">
+      <img src="assets/system.jpg" style="width:100%">
+       <h3> <a href="https://github.com/beatriz2889/gbc-parking-app">System Implementation</a></h3>
+    </div>
+  </div>
+     
                                                                                                                                          
                                              
                                              
