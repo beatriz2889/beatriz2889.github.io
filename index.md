@@ -15,7 +15,7 @@ in the end and that no obstacle is insurmountable.
    <button type="submit" style="background-color:#82CAFA">Download Coverletter</button>
 </form>
    <div id="projects">
-   <h1>Projects</h1>
+   <h2>Projects</h2>
    </div>
   <div class="row">
   <div class="column">
@@ -56,7 +56,7 @@ in the end and that no obstacle is insurmountable.
 </div>
 
 <div id="capstone">
-   <h1>Capstone Summary</h1>
+   <h2>Capstone Summary</h2>
    </div>
   <div class="row">
   <div class="column">
