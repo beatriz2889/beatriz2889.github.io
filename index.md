@@ -22,8 +22,8 @@ in the end and that no obstacle is insurmountable.
   <div class="column">
     <div class="content">
       <img src="assets/angular.jfif" style="width:100%">
-       <h3> <a href="https://github.com/beatriz2889/angular-project">Gamer Lobby</a></h3>
-      <p>Using Angular JS along with the MEAN stack I created a gamer lobby that allows users to add a player and join other player's games</p>
+       <h3> <a href="https://github.com/beatriz2889/angular-project">Video Game Lobby</a></h3>
+      <p>Using Angular JS along with the MEAN stack I created a video game lobby that allows users to add a player and join other player's games</p>
     </div>
   </div>
   <div class="column">
