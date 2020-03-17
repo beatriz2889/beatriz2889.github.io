@@ -54,6 +54,14 @@ in the end and that no obstacle is insurmountable.
     </div>
   </div>
 </div>
+
+<div id="capstone">
+   <h1>Capstone Summary</h1>
+   </div>
+   <div class="row">
+   <div class="column">
+      <div class="content">
+         
                                                      
                                                 
    
