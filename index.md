@@ -71,6 +71,12 @@ in the end and that no obstacle is insurmountable.
       <h3><a href="https://github.com/beatriz2889/beatriz2889.github.io/blob/master/capstone-docs/T28_High%20Level%20Requirements-converted.pdf">Project Requirements</a></h3>
     </div>
   </div>
+  <div class="column">
+    <div class="content">
+      <img src="assets/plan.jpg" style="width:100%">
+      <h3><a href="https://github.com/beatriz2889/beatriz2889.github.io/blob/master/capstone-docs/T28_Project%20Plan%26Charter-converted.pdf">Project Plan</a></h3>
+    </div>
+  </div>
                                                                                                                                          
                                              
                                              
