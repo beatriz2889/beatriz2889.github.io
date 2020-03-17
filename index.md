@@ -1,4 +1,3 @@
-# Beatriz Morales 
 
 ## Who am I?
 
