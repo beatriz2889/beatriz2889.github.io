@@ -4,10 +4,11 @@
 @import "{{ site.theme }}";
 
 body{
-  background-color:pink
+  background-color:pink;
+  color:white;
 }
 .page-header{
-  background-color:pink
+  background-color:pink;;
 }
 * {
   box-sizing: border-box;
